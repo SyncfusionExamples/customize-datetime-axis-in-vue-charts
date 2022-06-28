@@ -1,11 +1,14 @@
-# How to Customize the Numeric Axis of Vue Charts
+# How to Customize the Date-Time Axis of Vue Charts
 
 A quick start Vue project that shows how to customize Syncfusion's Vue Chart component using numeric Axis. This project also includes a code snippet to display data items based on custom x-axis range values and custom intervals, formatting numeric value labels with custom formats or globalized formats, and adding range padding to the horizontal axis.
 
-Examples: https://ej2.syncfusion.com/vue/demos/#/material/chart/numeric.html 
+Example :  
 
-Documentation: https://ej2.syncfusion.com/vue/documentation/chart/numeric-axis/
+https://ej2.syncfusion.com/vue/demos/#/material/chart/date-time.html 
 
+https://ej2.syncfusion.com/vue/demos/#/material/chart/date-time-category.html 
+
+Documentation: https://ej2.syncfusion.com/vue/documentation/chart/date-time-axis/
 
 ## Project pre-requisites
 
@@ -13,7 +16,7 @@ Make sure that you have the compatible versions of Node and Vue-Cli in your mach
 
 ## How to run this application?
 
-To run this application, you need to first clone the `customize-numeric-axis-in-vue-charts` repository and then navigate to its appropriate path where it has been located in your system.
+To run this application, you need to first clone the `customize-datetime-axis-in-vue-charts` repository and then navigate to its appropriate path where it has been located in your system.
 
 To do so, open the command prompt and run the below commands one after the other.
 
